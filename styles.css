@@ -1,6 +1,8 @@
 body {
     text-align: center;
     margin: 0px;
+    background-color: darkgrey;
+    font-family: "roboto slab";
 }
 h1 {
     margin-bottom: 20px;
@@ -29,6 +31,7 @@ button {
     color: white;
     font-weight: bold;
     margin: 20px;
+    outline: none;
 }
 #punch {
     background-color: green;
@@ -42,7 +45,4 @@ button {
     background-color: white;
     height: 100%;
     left: 18%;
-}
-body {
-    background-color: grey;
 }
